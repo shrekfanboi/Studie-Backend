@@ -2,9 +2,9 @@
 
 https://studie-app.herokuapp.com/
 
-GET https://studie-app.herokuapp.com/api/students
-GET https://studie-app.herokuapp.com/api/students?ssub=sub
-GET https://studie-app.herokuapp.com/api/students?wsub=sub
-GET https://studie-app.herokuapp.com/api/students/id
-POST  https://studie-app.herokuapp.com/api/students/create
-DELETE https://studie-app.herokuapp.com/api/students/id
+GET https://studie-app.herokuapp.com/api/students <br/>
+GET https://studie-app.herokuapp.com/api/students?ssub=sub <br/>
+GET https://studie-app.herokuapp.com/api/students?wsub=sub <br/>
+GET https://studie-app.herokuapp.com/api/students/id <br/>
+POST  https://studie-app.herokuapp.com/api/students/create <br/>
+DELETE https://studie-app.herokuapp.com/api/students/id <br/>
