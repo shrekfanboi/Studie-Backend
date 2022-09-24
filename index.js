@@ -6,7 +6,7 @@ const server = express()
 server.use(cors())
 server.use(express.urlencoded({extended:true}))
 server.use(express.json())
-const port = 8000
+const port = process.env.PORT || 8000
 const database = "student"
 const uri = `mongodb+srv://maimone154:m001-mongodb-basics@firstcluster.g8xd1rs.mongodb.net/${database}?retryWrites=true&w=majority`
 
