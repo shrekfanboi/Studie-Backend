@@ -1,6 +1,6 @@
 # Studie-Backend
 
-(https://studie-app.herokuapp.com/){:target="_blank"}
+<a href="https://studie-app.herokuapp.com/" target="_blank">https://studie-app.herokuapp.com/</a>
 
 GET https://studie-app.herokuapp.com/api/students <br/>
 GET https://studie-app.herokuapp.com/api/students?ssub=sub <br/>
