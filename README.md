@@ -3,11 +3,11 @@
 
 **API Endpoints**
 
-**#DEPRECATED**<br>
-GET https://studie-app.herokuapp.com/api/students <br/>
-GET https://studie-app.herokuapp.com/api/students?ssub=sub <br/>
-GET https://studie-app.herokuapp.com/api/students?wsub=sub <br/>
-GET https://studie-app.herokuapp.com/api/students/id <br/>
-POST  https://studie-app.herokuapp.com/api/students/create <br/>
-POST  https://studie-app.herokuapp.com/api/students/search <br/>
-DELETE https://studie-app.herokuapp.com/api/students/delete/id <br/>
+
+GET http://localhost:8000/api/students <br/>
+GET http://localhost:8000/api/students?ssub=sub <br/>
+GET http://localhost:8000/api/students?wsub=sub <br/>
+GET http://localhost:8000/api/students/id <br/>
+POST http://localhost:8000/api/students/create <br/>
+POST  http://localhost:8000/api/students/search <br/>
+DELETE http://localhost:8000/api/students/delete/id <br/>
